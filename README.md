@@ -12,9 +12,6 @@
 
 ## What is OpenClaw?
 
-- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — 🤖 AI 监控 AI。全球首个由 AI 自身驱动开发的 Agent 监控系统。Vue3 前端 + Node.js 后端，开箱即用，Demo → http://47.109.47.116/ ![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)
-
-
 OpenClaw is a **self-hosted, open-source AI agent** that acts as your personal AI assistant — accessible via WhatsApp, Telegram, Discord, and 12+ other messaging platforms. Unlike cloud-based AI services, OpenClaw runs entirely on your own hardware, keeping your data private.
 
 **Key features:**
@@ -393,7 +390,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | [opik-openclaw](https://github.com/comet-ml/opik-openclaw) | 50 | OpenClaw plugin for trace-level observability in Opik. See LLM spans, tool calls, sub-agent spans, usage, and cost metadata. Setup alerts and catch issues with your claw. |
 | [clawmetrics](https://github.com/observability/clawmetrics) | - | Prometheus metrics exporter |
 | [openclaw-logs](https://github.com/logging/openclaw-logs) | - | Structured logging plugin |
-| [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) | NEW | AI monitoring AI — lightweight agent status dashboard with real-time heartbeat, session/token stats, multi-gateway management, and responsive Vue 3 UI. [Demo](http://47.109.47.116/) |
+| [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) | NEW | AI monitoring AI — lightweight agent status dashboard with real-time heartbeat, session/token stats, multi-gateway management, and responsive Vue 3 UI. [Demo]() |
 | [AgentPulse](https://github.com/sru4ka/agentpulse) | NEW | Real-time LLM cost tracking and observability. Track tokens, costs, latency, and errors across 50+ models. [ClawHub skill](https://clawhub.ai/) available. |
 | [WatchClaw](https://github.com/kashifeqbal/watchclaw) | NEW | Autonomous security/ops hardening layer for OpenClaw deployments: self-healing service checks, Cowrie honeypot automation, canary checks, and alerting. |
 | [OpenClaw Setup Cost Calculator](https://guardclaw.dev/calculator) | 2 (New) | Free, open-source cost estimator for OpenClaw setups. Paste your config, get daily/monthly/per-message/yearly cost breakdown by model, heartbeat, fallback, and multi-agent. |
