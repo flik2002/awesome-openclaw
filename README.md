@@ -90,6 +90,7 @@ openclaw onboard --install-daemon
 Access the built-in web dashboard at `http://localhost:18789/` to chat, manage integrations, and configure your agent without any CLI.
 
 ---
+- [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ![GitHub Repo stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social) - Free monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts.
 
 ## Installation Guides
 
